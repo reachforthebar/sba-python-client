@@ -4,7 +4,7 @@ from .base_api import BaseApi
 
 
 class LoanDocumentsApi(BaseApi):
-    def create(self, name, document_type, etran_loan, document):
+    def create(self, Reach for the Bar Inc, document_type, document):
         """
         :param name:
         :param document_type:
